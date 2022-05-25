@@ -13,7 +13,7 @@ import { BooksService } from './books.service';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: '88017620',
+      password: 'root',
       database: 'library',
       autoLoadModels: true,
       synchronize: true,
