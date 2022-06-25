@@ -24,7 +24,9 @@
 
 ## Description
 
-Projeto desenvolvido com base no curso de Nest.js da Alura
+Sistema de cadastro de livros desenvolvido em TypeScript
+com a biblioteca Next.js. Utilizei o ORM Sequelize e o banco
+de dados MySQL.
 
 ## Installation
 
